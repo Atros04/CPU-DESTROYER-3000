@@ -1,0 +1,63 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.wrapper {
+    
+}
+
+.jumbotron {
+    background-size: 100% 100%;
+    text-align:center;
+    background-color: #CCD5AE;
+    margin-bottom: 0px;
+}
+
+
+#section-1 {
+    background-color: #f8f2e0;
+}
+
+#section-2 {
+    background-color: #f8f2e0;
+}
+
+#section-3 {
+    background-color: #f8f2e0;
+}
+
+.table {
+    background-color: #CCD5AE;
+    background-image: var(--bs-gradient);
+}
+
+#visual-desc {
+    background-color: #CCD5AE;
+    background-image: var(--bs-gradient);
+}
+
+#ML-header {
+    text-align:center;
+}
+
+#ML-desc {
+    margin-left: 20px;
+}
+
+#ML-plot {
+    margin-right: 5px;
+}
+
+#Tableau-header {
+    text-align:center;
+}
+
+#ML-3D-desc {
+    text-align:center;
+}
+
+#ML-p {
+    margin-left: 100px ;
+    margin-right: 100px ;
+    text-align:center;
+}
